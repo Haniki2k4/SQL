@@ -1,0 +1,18 @@
+
+Các lệnh SQL tiêu chuẩn để tương tác với cơ sở dữ liệu quan hệ là CREATE, SELECT, INSERT, UPDATE, DELETE và DROP. Các lệnh này có thể được phân thành các nhóm sau dựa trên bản chất của chúng
+
+DDL – Ngôn ngữ định nghĩa dữ liệu (Data Definition Language)
+    Lệnh	  Mô tả
+    CREATE  Tạo ra một bảng mới hoặc các đối tượng khác trong cơ sở dữ liệu.
+    ALTER	  Sửa đổi một đối tượng cơ sở dữ liệu hiện có, chẳng hạn như một bảng.
+    DROP	  Xoá toàn bộ một bảng hoặc các đối tượng khác trong cơ sở dữ liệu.
+DML – Ngôn ngữ thao tác dữ liệu(Data Manipulation Language)
+    Lệnh	Mô tả
+    SELECT	Lấy ra các bảng ghi nhất định từ một hoặc nhiều bảng.
+    INSERT	Tạo một bảng ghi..
+    UPDATE	Chỉnh sửa bảng ghi.
+    DELETE	Xóa bảng ghi.
+DCL – Ngôn ngữ điều khiển dữ liệu (Data Control Language)
+    Lệnh	  Mô tả
+    GRANT	  Cung cấp một quyền cho người dùng.
+    REVOKE	Lấy lại các quyền được cấp từ người dùng.
