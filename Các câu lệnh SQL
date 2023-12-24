@@ -1,3 +1,15 @@
+SELECT- trích xuất dữ liệu từ cơ sở dữ liệu
+UPDATE- cập nhật dữ liệu trong cơ sở dữ liệu
+DELETE- xóa dữ liệu khỏi cơ sở dữ liệu
+INSERT INTO- chèn dữ liệu mới vào cơ sở dữ liệu
+CREATE DATABASE- tạo một cơ sở dữ liệu mới
+ALTER DATABASE- sửa đổi cơ sở dữ liệu
+CREATE TABLE- tạo một bảng mới
+ALTER TABLE- sửa đổi một bảng
+DROP TABLE- xóa một bảng
+CREATE INDEX- tạo một index ( khóa tìm kiếm )
+DROP INDEX- xóa một 
+
 
 Các lệnh SQL tiêu chuẩn để tương tác với cơ sở dữ liệu quan hệ là CREATE, SELECT, INSERT, UPDATE, DELETE và DROP. Các lệnh này có thể được phân thành các nhóm sau dựa trên bản chất của chúng
 
