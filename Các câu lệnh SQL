@@ -8,7 +8,7 @@ CREATE TABLE- tạo một bảng mới
 ALTER TABLE- sửa đổi một bảng
 DROP TABLE- xóa một bảng
 CREATE INDEX- tạo một index ( khóa tìm kiếm )
-DROP INDEX- xóa một 
+DROP INDEX- xóa một index
 
 
 Các lệnh SQL tiêu chuẩn để tương tác với cơ sở dữ liệu quan hệ là CREATE, SELECT, INSERT, UPDATE, DELETE và DROP. Các lệnh này có thể được phân thành các nhóm sau dựa trên bản chất của chúng
